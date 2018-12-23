@@ -1,0 +1,6 @@
+framework module Pods_countCards {
+  umbrella header "Pods-countCards-umbrella.h"
+
+  export *
+  module * { export * }
+}
