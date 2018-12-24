@@ -10,6 +10,8 @@ I had an interesting class. A lot of factors led to me being one of the only stu
 
 ## Live Demo:
 
+<img src='https://i.imgur.com/Sn173PM.gif' title='flix Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ##  Challenges:
 - Not Having access to my student TA's because they shut down the class
 - Not having a group to rely on or to help me
