@@ -23,8 +23,9 @@ I had an interesting class. A lot of factors led to me being one of the only stu
 
 
 
-<img src='https://i.imgur.com/Sn173PM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Sn173PM.gif' href="https://i.imgur.com/Sn173PM.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Source: https://i.imgur.com/Sn173PM.gif
 
 
 ## Challenges:
